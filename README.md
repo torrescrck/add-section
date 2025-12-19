@@ -1,5 +1,6 @@
 # add-section
-PE file manipulation tool that adds a new section to a windows executable, commonly used for code injection, packer research, and reverse engineering experiments
+PE file manipulation tool that adds a new section to a windows executable, commonly used for code injection, packer research, and reverse engineering experiments.
+
 🧩 AddSection – PE Section Injection Tool
 add section is a low-level Portable Executable (PE) manipulation utility for windows that demonstrates how to safely add a new section to an existing executable.
 
